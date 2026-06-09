@@ -42,3 +42,7 @@ while continuity == 'Y' or continuity == 'y':
 if continuity == 'N' or continuity == 'n':
     print('Ok! ending rolls...')
     exit()
+elif continuity == 'Y' or continuity == 'y':
+        dice_type = 0
+        rolls = []
+
